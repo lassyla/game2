@@ -1,18 +1,15 @@
-# (TODO: your game's title)
+# Whack a Mackerel 
 
-Author: (TODO: your name)
+Author: Alyssa Lee
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
-
-Screen Shot:
+Design: It's like whack a mole, but instead of whacking moles you are whacking fish by throwing other fish at them. 
 
 ![Screen Shot](screenshot.png)
 
-How To Play:
+How To Play: You will start with 5 fish. Use the left click button to throw a fish into the pond, aiming for the fish that pop up. If you hit something then both fish are returned to your stash of fish! 
 
-(TODO: describe the controls and (if needed) goals/strategy.)
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: Assets created by Alyssa
 
 This game was built with [NEST](NEST.md).
 
